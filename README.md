@@ -1,9 +1,3 @@
-<!-- Banner Personal -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Juanfelipe-pro/Juanfelipe-pro/main/banner.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Juanfelipe-pro/Juanfelipe-pro/main/banner.png">
-  <img alt="Banner Juan Felipe" src="https://raw.githubusercontent.com/Juanfelipe-pro/Juanfelipe-pro/main/banner.png" width="100%">
-</picture>
 
 ---
 
