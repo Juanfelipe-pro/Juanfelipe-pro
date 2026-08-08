@@ -56,12 +56,7 @@ Sistema de gestión de eventos con tickets, códigos QR, control de capacidad y 
 
 `Python` · `Django REST Framework` · `PostgreSQL` · `JWT` · `QR Codes`
 
----
-
-### API Gateway
-Microservicio de enrutamiento en Go con rate limiting, circuit breaker y reverse proxy concurrente.
-
-`Go` · `Gorilla Mux` · `Goroutines` · `Reverse Proxy` · `Circuit Breaker`
+[Ver repositorio](https://github.com/Juanfelipe-pro/event_manager)
 
 ---
 
@@ -101,6 +96,7 @@ Microservicio de enrutamiento en Go con rate limiting, circuit breaker y reverse
 ## Contacto
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Juanfelipe-pro)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-felipe-alvear-estrada-399a6b388/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:juanfelipealvearestrada@gmail.com)
 
 ---
