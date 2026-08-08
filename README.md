@@ -1,97 +1,108 @@
+# Juan Felipe Alvear Estrada
+
+### Backend Developer · Python · Django · Go
+
+Desarrollador Backend con más de 2 años de experiencia construyendo APIs REST, sistemas web y herramientas de procesamiento de datos. Enfoque en sistemas mantenibles, escalables y bien diseñados con principios SOLID y arquitectura modular.
 
 ---
 
-<h1 align="center">👋 ¡Hola! Soy <strong>Juan Felipe</strong></h1>
-<h3 align="center">💻 Desarrollador Backend Junior | 🐍 Python · Django · FastAPI · ☕ Java · Spring Boot</h3>
+## Stack Principal
 
-<p align="center">
-  <a href="mailto:juanfelipealvearestrada@gmail.com"><img src="https://img.shields.io/badge/Correo-Gmail-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://github.com/Juanfelipe-pro"><img src="https://img.shields.io/badge/GitHub-Juanfelipe--pro-black?style=for-the-badge&logo=github"></a>
-</p>
-
----
-
-## 🧠 Sobre mí
-
-Soy un **desarrollador backend apasionado** por construir soluciones escalables, limpias y seguras utilizando **Python (Django, FastAPI)** y **Java (Spring Boot)**.  
-Me motiva el aprendizaje constante, la colaboración entre desarrolladores y la creación de software que genere impacto real.  
-
-🌍 He tenido la oportunidad de formarme internacionalmente, reforzando mi mentalidad **autodidacta y de resolución de problemas complejos**.  
-💡 Creo firmemente que el código debe ser claro, mantenible y tener propósito.
-
-> ✨ *“El código limpio no solo funciona: se entiende, se mantiene y se disfruta construir.”*
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-FF1704?style=flat)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 
 ---
 
-## 🇪🇸 Experiencia Internacional – **42 Madrid**
+## Que construyo
 
-🎓 Participé **dos veces en la Piscine de 42 Madrid (2024 y 2025)** — una formación intensiva reconocida a nivel mundial por su enfoque práctico y colaborativo.  
-Durante esta experiencia desarrollé habilidades clave:
-
-- ⚙️ Pensamiento lógico y resolución de problemas con **C** y **Shell scripting**.  
-- 🤝 Trabajo en equipo bajo presión y comunicación efectiva.  
-- 🧠 Capacidad de aprendizaje autónomo y resiliencia técnica.
-
-🧩 Esta experiencia me enseñó a **aprender aprendiendo**, mejorar cada día y mantener la curiosidad viva.
+- **APIs REST** con Django REST Framework — endpoints, serializadores, viewsets y autenticación JWT
+- **Microservicios** en Go con enrutamiento, concurrencia y patrones como Circuit Breaker
+- **Procesamiento de datos** con Celery, Redis y tareas asíncronas
+- **Sistemas de crawling** y extracción de información multimedia
+- **Bases de datos** optimizadas con consultas SQL avanzadas
 
 ---
 
-## 🛠️ Stack Tecnológico
+## Proyectos destacados
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,java,spring,postgresql,mysql,mongodb,docker,nginx,git,vscode,linux&perline=7" />
-</p>
+### Billing Service
+Backend de facturación y control de stock con arquitectura modular por capas y principios SOLID.
 
-**Backend:**  
-`Python` · `Django REST Framework` · `FastAPI` · `Java` · `Spring Boot`  
+`Python` · `Django REST Framework` · `PostgreSQL` · `SOLID`
 
-**Bases de Datos:**  
-`PostgreSQL` · `MySQL` · `MongoDB`  
-
-**Infraestructura:**  
-`Docker` · `Nginx` · `Gunicorn` · `Uvicorn` · `CI/CD`  
-
-**Metodologías:**  
-`Scrum` · `Kanban`
+[Ver repositorio](https://github.com/Juanfelipe-pro/billing-service)
 
 ---
 
-## 🚀 Actualmente
+### Expense Tracker API
+API para gestión y análisis de gastos personales con autenticación JWT y documentación Swagger.
 
-- 🧩 Construyendo proyectos personales con **Django REST Framework** y **Spring Boot**.  
-- 🔍 Aprendiendo sobre **microservicios** y **arquitectura hexagonal**.  
-- ⚙️ Experimentando con **Redis, Celery y Kafka** para tareas en segundo plano y mensajería.  
-- 🐳 Desplegando entornos productivos con **Docker Compose y Nginx**.
+`Python` · `Django REST Framework` · `PostgreSQL` · `JWT` · `Swagger`
 
----
-
-## 📈 Mis estadísticas de GitHub
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Juanfelipe-pro&show_icons=true&theme=tokyonight">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Juanfelipe-pro&show_icons=true&theme=default">
-    <img src="https://github-readme-stats.vercel.app/api?username=Juanfelipe-pro&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanfelipe-pro&layout=compact&theme=tokyonight">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanfelipe-pro&layout=compact&theme=default">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanfelipe-pro&layout=compact&theme=tokyonight" alt="Top Languages"/>
-  </picture>
-</p>
+[Ver repositorio](https://github.com/Juanfelipe-pro/expense-tracker-drf-api)
 
 ---
 
-## 🌍 Conecta conmigo
+### Event Manager API
+Sistema de gestión de eventos con tickets, códigos QR, control de capacidad y roles.
 
-📧 **Correo:** [juanfelipealvearestrada@gmail.com](mailto:juanfelipealvearestrada@gmail.com)  
-🐙 **GitHub:** [github.com/Juanfelipe-pro](https://github.com/Juanfelipe-pro)
+`Python` · `Django REST Framework` · `PostgreSQL` · `JWT` · `QR Codes`
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=120&section=footer"/>
-</p>
+### API Gateway
+Microservicio de enrutamiento en Go con rate limiting, circuit breaker y reverse proxy concurrente.
+
+`Go` · `Gorilla Mux` · `Goroutines` · `Reverse Proxy` · `Circuit Breaker`
+
+---
+
+## Experiencia
+
+**DSOFT Innovate** · Desarrollador Full Stack · Jun 2025 – Oct 2025
+- Sistemas de web crawling con Python
+- Procesamiento asíncrono con Celery y Redis
+- APIs con Django REST Framework
+- Análisis de texto y generación automática de reportes
+
+**Corporación Universitaria Americana** · Auxiliar de Software · Feb 2024 – Sep 2024
+- Mantenimiento de web services con Ruby on Rails
+- Resolución de incidencias y corrección de bugs
+- Trabajo con bases de datos Oracle
+
+**Corporación Universitaria Americana** · Desarrollador Web · Jul 2022 – Jul 2023
+- Diseño de esquemas PostgreSQL y optimización de consultas SQL
+- Aplicaciones web internas con PHP
+- Implementación de módulos CRUD y lógica de negocio
+
+---
+
+## Arquitectura y buenas prácticas
+
+`SOLID` · `Clean Code` · `Arquitectura modular` · `Arquitectura por capas` · `Scrum` · `Agile`
+
+---
+
+## GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Juanfelipe-pro&show_icons=true&theme=radical&hide_border=true)](https://github.com/Juanfelipe-pro)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Juanfelipe-pro&layout=compact&theme=radical&hide_border=true)](https://github.com/Juanfelipe-pro)
+
+---
+
+## Contacto
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Juanfelipe-pro)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:juanfelipealvearestrada@gmail.com)
+
+---
+
+*Backend Developer focused on building reliable, scalable systems with Python, Django and Go.*
